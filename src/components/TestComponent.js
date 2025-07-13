@@ -10,8 +10,8 @@ function TestComponent() {
         src="https://www.youtube.com/embed/5TbUxGZtwGI"
         frameBorder="0"
         allow="autoplay; encrypted-media"
-        title="time video"
         allowFullScreen
+        title="time video"
       ></iframe>
     </div>
   );
